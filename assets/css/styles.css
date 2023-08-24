@@ -105,3 +105,7 @@ p {
   color: rgb(207,207,207);
 }
 
+.fa.fa-users.project-icon {
+  font-size: 40px;
+}
+
